@@ -65,7 +65,7 @@ WSGI_APPLICATION = 'restaurant_management.wsgi.application'
 
 
 # Database
-# https://docs.djangoproject.com/en/4.2/ref/settings/#databases
+# https://docs.djangoproject.com/en/4.2/ref/settings/#database
 
 DATABASES = {
     'default': {
